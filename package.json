@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/snogcel/mnbroadcast/issues"
   },
-  "homepage": "https://github.com/snogcel/mnbroadcast#readme"
+  "homepage": "https://github.com/snogcel/mnbroadcast#readme",
+  "dependencies": {
+    "bitcore-lib-dash": "^0.13.20",
+    "bitcore-message-dash": "^1.0.5"
+  }
 }
